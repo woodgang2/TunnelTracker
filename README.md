@@ -1,3 +1,3 @@
 Deception is the most important tool for baseball pitchers, and yet it is simultaneously one of the most difficult to quantify. Tunneling describes the situation in which two different pitches move through the same physical "tunnel" from the batter's persepctive for a brief moment out of the pitcher's hand, thus giving the illusion to the batter that they are the same pitch.
 
-This project attempts to measure pitchers' tunnelling quality based off of radar data, rotated to the batter's perspective. Some attempt was made to utilize image data in order to exploit the movement of the seams on the ball, but current methods were too unreliable to be used.
+This project attempts to measure pitchers' tunneling quality based off of radar data, rotated to the batter's perspective. Some attempt was made to utilize image data in order to exploit the movement of the seams on the ball, but current methods were too unreliable to be used.
